@@ -9,4 +9,4 @@
 
 - JavaScript | ES6
 - HTML | CSS | SCSS | Bootstrap
-- ReactJs | Ajax | Redux | 
+- ReactJs | Ajax | Redux
